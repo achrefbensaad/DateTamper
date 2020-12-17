@@ -1,5 +1,5 @@
 # DateTamper
-A PowerShell Implimentation of BulkFileChanger
+A PowerShell Implementation of BulkFileChanger
 
 Created by Achref BEN SAAD
 
